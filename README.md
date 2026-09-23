@@ -6,11 +6,13 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShubhamKumar635/DAA-Assignment/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhamKumar635/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/ShubhamKumar635/DAA-Assignment/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShubhamKumar635/DAA-Assignment/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhamKumar635/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/ShubhamKumar635/DAA-Assignment/tree/master/0162-find-peak-element) |
 ## Matrix
 |  |
 | ------- |
